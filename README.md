@@ -1,7 +1,7 @@
-# The Arduino Printer
+# Arduino Printer
 This was a fun weekend-project program written for an Arduino Nano hooked to a Nintendo Switch controller. By pulling the debug pins with the Arduino, we can simulate button presses programmatically.
 
-![The Frankencontroller](img/Jank.jpg)
+![The Frankencontroller](img/Jank.JPG)
 
 Several Nintendo games (i.e. Splatoon 2/3) allow the player to draw 320x120 images to be displayed in game. This repository allows an image file to be printed in game using programmed button presses.
 
